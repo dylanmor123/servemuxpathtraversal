@@ -1,5 +1,5 @@
 # servemuxpathtraversal
-Script written in Go that checks targets for path traversal vulnerabilities induced by the ServeMux HTTP Multiplexer as described by Ilya Glotov's blog ->  https://ilyaglotov.com/blog/servemux-and-path-traversal
+Script written in Go that checks targets for path traversal vulnerabilities induced by the ServeMux HTTP Multiplexer as described by [Ilya Glotov's blog](https://ilyaglotov.com/blog/servemux-and-path-traversal).
 
 Usage:
 
